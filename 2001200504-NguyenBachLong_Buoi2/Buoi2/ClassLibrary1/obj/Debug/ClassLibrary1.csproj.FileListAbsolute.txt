@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\NguyenBachLong\2001200504-NguyenBachLong_Buoi2\Buoi2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\LuuDuLieuSinhVien\NguyenBachLong\2001200504-NguyenBachLong_Buoi2\Buoi2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\LuuDuLieuSinhVien\NguyenBachLong\2001200504-NguyenBachLong_Buoi2\Buoi2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\LuuDuLieuSinhVien\NguyenBachLong\2001200504-NguyenBachLong_Buoi2\Buoi2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\LuuDuLieuSinhVien\NguyenBachLong\2001200504-NguyenBachLong_Buoi2\Buoi2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
